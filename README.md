@@ -14,7 +14,9 @@ Tamamen HTML ve CSS ile geliştirilmiştir.
 
 
 📸 Ekran Görüntüsü
+
 <img src="./screenshot.jpg" alt="LoginFlow ekran görüntüsü" width="800" />
+
 
 
 🇬🇧 LoginFlow
